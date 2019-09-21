@@ -1,4 +1,6 @@
 # Jar of Entangled Wisps
+![adasd](https://raw.githubusercontent.com/garzaa/dnd/master/brightvale/items/img/entangled%20wisps.png)
+
 A small glass jar containing two will-o-wisps. Intelligent creatures feel their eyes drawn to it.
 
 When the jar is opened and placed against another open glass container, one wisp will switch jars and form two Jars of Entangled Wisps. When one will-o-wisp dies, the remaining jar will repopulate after a long rest.
