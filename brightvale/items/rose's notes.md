@@ -5,8 +5,8 @@ Rose carries this small, leather-bound booklet about her person at all times. So
 - dilapidated gate confirmed in Brightvale, rumors somewhere in Saintsbridge, Kingsreach?
 - still unsure what happens if only one is opened
 
-### Ritual Ingredients
-1. Beetroot, from a farm missing a sapling
+### Ritual Visions
+1. Beetroot from a farm with an uprooted sapling
 2. Blood from a rock
 3. A lumpy club
 4. Storm-forged wood

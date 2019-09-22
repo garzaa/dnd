@@ -9,7 +9,7 @@ Rose (or the required ingredients) must be with the players for this encounter t
 
 One by one, the players lay the ingredients onto the spiral in the center of the stone. Finally, Rose draws one of her blades. She pricks her finger with it and delicately places it atop the rest.
 
-The blade flashes white, then red. The knife's bloody tip elongates impossibly, filling the spirals and whorls carved into the stone's face. 
+The blade flashes white, then red. The knife's bloody tip elongates, filling the spirals and whorls carved into the stone's face. 
 
 With a flash of sparks, the single remaining stone gate opens. Inside it is glimmering, star-filled darkness. Rose tries to toss a stone through it, and it bounces unceremoniously off the entrance before landing in the weeds the gate's base.
 
