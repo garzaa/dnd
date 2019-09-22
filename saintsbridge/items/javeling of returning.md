@@ -1,5 +1,5 @@
 # Javelin of Returning
-An obsidian-tipped javelin with a tattered green ribbon near its tip.
+An obsidian-tipped javelin with a tattered green ribbon tied around its shaft.
 
 1D6 Piercing Damage, 30/120
 
