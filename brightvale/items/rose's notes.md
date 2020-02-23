@@ -9,5 +9,5 @@ Rose carries this small, leather-bound booklet about her person at all times. So
 1. Beetroot from a farm with an uprooted sapling
 2. Blood from a rock
 3. A lumpy club
-4. Storm-forged wood
-5. A rose's thorn
+4. Haunted wood
+5. A shapechanger's thorn
