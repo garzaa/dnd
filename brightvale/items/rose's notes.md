@@ -2,7 +2,7 @@
 Rose carries this small, leather-bound booklet about her person at all times. Some notes are hastily scrawled and crossed out. Others are neater, with accompanying diagrams.
 
 ### Gate Notes
-- dilapidated gate confirmed in Brightvale, rumors somewhere in Saintsbridge, Kingsreach?
+- dilapidated gate confirmed in Brightvale, rumors somewhere in Saintsbridge, Unnamed Port City?
 - still unsure what happens if only one is opened
 
 ### Ritual Visions
